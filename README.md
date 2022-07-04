@@ -2,9 +2,6 @@
 
 I'm Bhuvaneswar, I graduated in the year 2021 from G Pullareddy Engineering College. I came out of my college with a placement in Tata consultancy services. Now I am currently working as a System Administrator in TCS. Parallelly I am doing my job and in my free time, I am learning new skills with Naresh IT. I am a self-motivator. I work efficiently both as an individual contributor as well as along with a team. I am a quick learner and believe in learning from my mistakes for I strongly feel that this virtue will take me ahead in life and my career. Now I am ready to set my carrier as a developer.
 
-
-
-
 ![Visitor Count](https://profile-counter.glitch.me/Bhuvaneswarjakka/count.svg)
 
 <div>
